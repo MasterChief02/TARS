@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Sources">
+        <file>TARS/Scripts/version-check.sh</file>
+    </qresource>
+</RCC>
